@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: brocha;
+    src: url(../font/brocha-bold.otf);
+}
+body{
+    font-family: brocha;
+    margin: 0;
+    padding: 0;
+    background: color: WHITE;
+    background-size: cover;
+    background-position: center;
+}
+
+
+header{
+ background-color: red;
+ height: 10vh;
+ width: 100%;
+
+}
+#Logo {
+ margin: 0 auto;
+ height: 10vh;
+ width: 14vh;
+ display: flex;
+ justify-content: center;
+}
+main{
+  background-color: blue;
+  height: 70vh;
+  width: 100%;
+}
+#carouselExampleControls{
+  height: 50%;
+  width: 100%;
+}
