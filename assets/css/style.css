@@ -488,7 +488,7 @@ padding: 3rem 0;
 
  .new_product_seccion{
    grid-template-columns: repeat(3,1fr);
-   
+
   }
 
   .new_box{
